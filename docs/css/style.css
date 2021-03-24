@@ -8,8 +8,8 @@
 /* ==================================================
    Google Fonts
 ================================================== */
-@import url("http://fonts.googleapis.com/css?family=Oxygen:300,400,700");
-@import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import url("http://fonts.googleapis.com/css?family=Merriweather:300,400,700");
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
 
 /* ==================================================
    Global Styles
@@ -39,7 +39,7 @@ html {
 }
 
 body {
-    font-family: "Oxygen", Arial, Verdana, Helvetica, sans-serif;
+    font-family: "Merriweather", Arial, Verdana, Helvetica, sans-serif;
     font-size: 15px;
     color: #555;
     font-weight: 400;
@@ -157,7 +157,7 @@ img.imgfull {
     font-size: 30px;
     line-height: 30px;
     font-weight: 700;
-    font-family: "Montserrat";
+    font-family: "Roboto";
     text-transform: uppercase;
 }
 
