@@ -1,6 +1,6 @@
-{:site-title                   "TIL: Today I Learned"
+{:site-title                   "Mildly Interesting"
  :author                       "Hindol Adhya"
- :description                  "Things that are interesting to me."
+ :description                  "Things that may or may not interest you. You have been warned."
  :site-url                     "https://hindol.github.io/"
  :post-root                    "posts"
  :page-root                    "pages"
